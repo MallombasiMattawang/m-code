@@ -12,3 +12,7 @@
 <li>Serverside datatable</li>
 <li>Bulilt in PHP V.7.4</li>
 </ul>
+
+Halaman Login : http://[APPS]/backend/login.html
+username : mpampam@dev.com
+password : 123456
